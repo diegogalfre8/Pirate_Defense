@@ -65,4 +65,4 @@ Pour avoir un aperçu du fontionnement du noyau du jeu en version terminal
 6. À présent, moussaillon, le destin de l'île et de son trésor repose entre vos mains... Bon courage!
 
 
-![Presentation](https://forge.univ-lyon1.fr/p2205540/projetjeu/-/raw/main/data/HomePirate.png?ref_type=heads)
+![Presentation](https://github.com/diegogalfre8/Pirate_Defense/raw/main/data/HomePirate.png)
