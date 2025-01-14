@@ -1,0 +1,33 @@
+# Ignorer les fichiers exécutables
+*.exe
+*.out
+
+# Ignorer les fichiers générés lors de la compilation
+*.o
+*.obj
+
+# Ignorer les fichiers spécifiques à SFML
+sfmlJeu
+sfmlJeu.dSYM/
+
+# Ignorer les fichiers de sauvegarde
+*.bak
+
+# Ignorer les fichiers de compilation de CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignorer les fichiers de configuration de l'IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers d'environnement
+.env
+
+# Ignorer les fichiers de dépendances
+.depend
+
+# Ignorer les fichiers de sortie des tests
+test-results/
